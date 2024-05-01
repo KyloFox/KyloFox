@@ -1,0 +1,101 @@
+body{
+  background: orange;
+}
+.twitter{
+  color: #009fff;
+  background: rgb(255, 255, 255);
+  border-radius: 0 0px 0px;
+  border-color: rgb(37, 0, 255);
+  border-style: groove;
+  border-width: thick;
+  padding: 0em 0em 0 0em;
+
+}
+.Twitter{
+  color: #009fff;
+}
+
+.Facebook{
+  color: rgb(37, 0, 255);
+  background: rgb(255, 255, 255);
+  border-radius: 0 0px 0px;
+  border-color: rgb(37, 0, 255);
+  border-style: groove;
+  border-width: thick;
+  padding: 0em 0em 0 0em;
+}
+.facebook{
+  color: rgb(37, 0, 255);
+}
+
+.Instagram{
+  color: #ff00ff;
+  background: rgb(255, 255, 255);
+  border-radius: 0 0px 0px;
+  border-color: rgb(37, 0, 255);
+  border-style: groove;
+  border-width: thick;
+  padding: 0em 0em 0 0em;
+}
+.instagram{
+  color: #ff00ff;
+}
+
+.YouTube{
+  color: #ff0000;
+  background: rgb(255, 255, 255);
+  border-radius: 0 0px 0px;
+  border-color: rgb(37, 0, 255);
+  border-style: groove;
+  border-width: thick;
+  padding: 0em 0em 0 0em;
+}
+.youtube{
+  color: #ff0000;
+}
+
+.Patreon{  
+  color: #f88dc0;
+  background: rgb(255, 255, 255);
+  border-radius: 0 0px 0px;
+  border-color: rgb(37, 0, 255);
+  border-style: groove;
+  border-width: thick;
+  padding: 0em 0em 0 0em;
+}
+.patreon{
+  color: #f88dc0;
+}
+
+.Github{
+  color: rgb(0, 0, 0);
+  background: rgb(255, 255, 255);
+  border-radius: 0 0px 0px;
+  border-color: rgb(37, 0, 255);
+  border-style: groove;
+  border-width: thick;
+  padding: 0em 0em 0 0em;
+}
+.github{
+  color: rgb(0, 0, 0);
+}
+
+.Medium{
+  color: rgb(0, 0, 0);
+  background: rgb(255, 255, 255);
+  border-radius: 0 0px 0px;
+  border-color: rgb(37, 0, 255);
+  border-style: groove;
+  border-width: thick;
+  padding: 0em 0em 0 0em;
+}
+.medium{
+  color: rgb(0, 0, 0);
+
+  
+  
+  
+}
+.art{
+  color: black
+}

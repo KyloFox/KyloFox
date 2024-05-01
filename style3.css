@@ -1,0 +1,63 @@
+body{
+  background: orange;
+}
+.kylo{
+  height: 250px;
+  float: right;
+}
+.colorabout{
+  color: black;
+}
+
+.colorback{
+  color: #000000;
+  background: rgb(255, 255, 255);
+  border-radius: 0 0px 0px;
+  border-color: rgb(37, 0, 255);
+  border-style:groove;
+  padding: 0em 0em 0 0em;
+}
+
+.games{
+  color: #000000;
+  background: rgb(255, 255, 255);
+  border-radius: 0 0px 0px;
+  border-color: rgb(37, 0, 255);
+  border-style: groove;
+  
+  padding: 0em 0em 0 0em;
+}
+.art{
+  color: #000000;
+  background: rgb(255, 255, 255);
+  border-radius: 0 0px 0px;
+  border-color: rgb(37, 0, 255);
+  border-style: groove;
+  padding: 0em 0em 0 0em;
+}
+
+.contain {
+  position: relative;
+  width: 50%;
+}
+
+.contain img {
+  width: 200%;
+  height: auto;
+}
+
+.contain .btn {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.contain .btn:hover {
+} 

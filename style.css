@@ -1,0 +1,34 @@
+.details{
+  font-size:17px;
+    
+     
+}
+.pt1{
+  color: #000000;
+  background: rgb(255, 255, 255);
+  border-radius: 0px 0px 3em 3em;
+  border-color: rgb(37, 0, 255);
+  border-style: groove;
+  border-width: thick;
+  padding: 0em 0em 0 0em;
+}
+.pt2{
+  text-align: center;
+  color: #000000;
+  background: rgb(255, 255, 255);
+  border-radius: 100em 100em 0 0;
+  border-color: rgb(37, 0, 255);
+  border-style: groove;
+  border-width: thick;
+  padding: 0em;
+}
+.pt3{
+  text-align: center;
+  color: #000000;
+  background: rgb(255, 255, 255);
+  border-radius: 0px 0px 0 0;
+  border-color: rgb(37, 0, 255);
+  border-style: groove;
+  border-width: thick;
+  padding: 0em;
+}
